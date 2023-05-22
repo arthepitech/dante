@@ -6,7 +6,7 @@ COMPILATION :
 
 USES :
 - generation command :
-      perfect maze :  "./generation/generation [size x] [size y] perfect"
+      perfect maze :  "./generation/generation [size x] [size y] perfect"\n
       imperfect maze :  "./generation/generation [size x] [size y]"
 
 - solver command :  "./solver/solver [file]"
